@@ -35,6 +35,7 @@
 - Pessoas autenticadas (logadas) conseguem acessar as páginas de feed e post
 - Loadings nas telas que fazem as requisições
 - Formulários com validações
+
 - A lógica dos votos nos post e comentários
 -  Realizar a votação ou a criação de um novo post ou comentário a lista com todos são atualizadas
 -  Paginação no feed e nos comentários
@@ -52,7 +53,7 @@ Acesse a página do LabEddit [clicando aqui](https://labeddit-michael.surge.sh/)
 
 ##  👩🏻‍💻 Desenvolvedor
 
-| [<img src="" width=115><br><sub>Michael Douglas F Marcelino</sub>](https://www.linkedin.com/in/michaeldouglasf/)
+| [<img src="https://user-images.githubusercontent.com/80003041/186209416-5df35475-ab64-4f8e-8555-36cbd4d4bae7.png" width=115><br><sub>Michael Douglas F Marcelino</sub>](https://www.linkedin.com/in/michaeldouglasf/)
 | :---: | 
 
 ## 📷 Imagens
